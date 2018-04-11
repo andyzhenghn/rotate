@@ -37,7 +37,7 @@
 			left: 0px;
 			box-sizing: border-box;
 			opacity: 0.6;
-			background-image: url(img/1.jpg);
+			background-image: url(./img/1.JPG);
 		}
 				
 		.box .front {
@@ -80,7 +80,7 @@
 			left: 0px;
 			box-sizing: border-box;
 			opacity: 0.6;
-			background-image: url(img/2.jpg);
+			background-image: url(./img/2.JPG);
 		}
 		
 		.box1 .front {
